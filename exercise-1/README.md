@@ -21,3 +21,5 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 3. Coffee
 
 #**Practice**
+
+# [practice link to Nike](nike.com)
